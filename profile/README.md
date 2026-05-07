@@ -21,6 +21,7 @@ Applying for registration as a charitable company under the Charities Act 2005 (
 
 | Repo | Purpose |
 |------|---------|
+| [nzrt-x402](https://github.com/NZRTnetwork/nzrt-x402) | x402 micropayment API — pay-per-query access to NZRT knowledge vault |
 | [obsidian-business-vault-template](https://github.com/NZRTnetwork/obsidian-business-vault-template) | Structured Obsidian vault template |
 | [claude-code-multi-agent-setup](https://github.com/NZRTnetwork/claude-code-multi-agent-setup) | Multi-agent Claude Code configuration pattern |
 | [nextcloud-dolibarr-agent-setup](https://github.com/NZRTnetwork/nextcloud-dolibarr-agent-setup) | Nextcloud + Dolibarr provisioning scripts |
