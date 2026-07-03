@@ -22,7 +22,6 @@ Applying for registration as a charitable company under the Charities Act 2005 (
 | [000API](https://github.com/NZRTnetwork/000API) | x402 micropayment API - pay-per-query access to NZRT knowledge vault |
 | [000CLA](https://github.com/NZRTnetwork/000CLA) | Multi-agent Claude Code configuration pattern |
 | [000FLA](https://github.com/NZRTnetwork/000FLA) | Flarum community forum configuration |
-| [000NCL](https://github.com/NZRTnetwork/000NCL) | Nextcloud + Dolibarr provisioning scripts |
 | [000OBS](https://github.com/NZRTnetwork/000OBS) | Structured Obsidian vault template |
 
 ---
